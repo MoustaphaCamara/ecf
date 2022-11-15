@@ -1,0 +1,13 @@
+/*
+Theme Name: ECF
+Version: 1.0
+Description: Wordpress Theme for OnlineFormaPro exam validation
+Tags: ecf, responsive, custom-theme
+Author: Moustapha Camara
+Author URI: www.moustaphacamara.fr
+*/
+@import "assets/css/variables.css";
+@import "assets/css/global.css";
+@import "assets/css/header.css";
+@import "assets/css/main.css";
+@import "assets/css/footer.css";

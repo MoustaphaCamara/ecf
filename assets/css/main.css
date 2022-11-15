@@ -1,0 +1,30 @@
+.wp-element-button {
+  background-color: var(--primary);
+}
+.wp-block-button > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .has-x-large-font-size > .wp-element-button {
+  background-color: #000;
+} */
+/*
+a.wp-block-button__link .wp-element-button {
+} */
+.wp-block-separator {
+  color: white;
+  margin: 30px auto;
+}
+.wp-block-group__inner-container {
+  padding: 40px;
+}
+.wp-block-image img {
+  margin: 24px auto;
+  border-radius: 16px;
+}
+/* .wp-block-cover__background.has-background-dim-100.has-background-dim {
+  display: inline;
+  width: 200vh;
+} */
